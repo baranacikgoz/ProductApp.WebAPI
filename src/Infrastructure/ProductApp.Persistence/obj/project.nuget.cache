@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VqinZNjZ9m8/LgMBUjQQ8eWTQIgGtvROf5aqm6HEusbFo3Fa+ocmDtVNQEKisy3oRzR95KJL2lnAPloHJ8TdTg==",
+  "dgSpecHash": "VIC0Jf8A3CgJV5DligvnSbsAgJ38MdCkdwU5OzZmjKuQQTd4WJwBXTSDpJ8UYwffZKcFW2jQyr+fRLW+s73IwA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\baran\\Software\\Self\\ProductApp\\src\\Infrastructure\\ProductApp.Persistence\\ProductApp.Persistence.csproj",
+  "projectFilePath": "C:\\Users\\baran\\Software\\Self\\ProductApp.WebAPI\\src\\Infrastructure\\ProductApp.Persistence\\ProductApp.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\baran\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\baran\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

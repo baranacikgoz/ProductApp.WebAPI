@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fzabG6VzeLOcItdOZ8n5nlFAargnra0sToKvPg0lCfhmXgdMaLIHJUgERGDCZ2SP8MO6rl7azMXSOJOkcEM5Hg==",
+  "dgSpecHash": "juNJDuDwtdMIwcXjKBrp+tSeojAlDe7F+Fbh/+ZvKzy8wdd3YQQzS/5tj/r7GC4Zk3RqCiTc1YGVwhdLcpNvHA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\baran\\Software\\Self\\ProductApp\\src\\Core\\ProductApp.Application\\ProductApp.Application.csproj",
+  "projectFilePath": "C:\\Users\\baran\\Software\\Self\\ProductApp.WebAPI\\src\\Core\\ProductApp.Application\\ProductApp.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

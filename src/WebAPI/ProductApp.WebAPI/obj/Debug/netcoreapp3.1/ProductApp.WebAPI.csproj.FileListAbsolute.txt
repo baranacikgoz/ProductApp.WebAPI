@@ -1,0 +1,6 @@
+C:\Users\baran\Software\Self\ProductApp.WebAPI\src\WebAPI\ProductApp.WebAPI\obj\Debug\netcoreapp3.1\ProductApp.WebAPI.csproj.AssemblyReference.cache
+C:\Users\baran\Software\Self\ProductApp.WebAPI\src\WebAPI\ProductApp.WebAPI\obj\Debug\netcoreapp3.1\ProductApp.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baran\Software\Self\ProductApp.WebAPI\src\WebAPI\ProductApp.WebAPI\obj\Debug\netcoreapp3.1\ProductApp.WebAPI.AssemblyInfoInputs.cache
+C:\Users\baran\Software\Self\ProductApp.WebAPI\src\WebAPI\ProductApp.WebAPI\obj\Debug\netcoreapp3.1\ProductApp.WebAPI.AssemblyInfo.cs
+C:\Users\baran\Software\Self\ProductApp.WebAPI\src\WebAPI\ProductApp.WebAPI\obj\Debug\netcoreapp3.1\ProductApp.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\baran\Software\Self\ProductApp.WebAPI\src\WebAPI\ProductApp.WebAPI\obj\Debug\netcoreapp3.1\ProductApp.WebAPI.MvcApplicationPartsAssemblyInfo.cache

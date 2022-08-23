@@ -879,11 +879,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\baran\\Software\\Self\\ProductApp\\src\\Infrastructure\\ProductApp.Persistence\\ProductApp.Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\baran\\Software\\Self\\ProductApp.WebAPI\\src\\Infrastructure\\ProductApp.Persistence\\ProductApp.Persistence.csproj",
       "projectName": "ProductApp.Persistence",
-      "projectPath": "C:\\Users\\baran\\Software\\Self\\ProductApp\\src\\Infrastructure\\ProductApp.Persistence\\ProductApp.Persistence.csproj",
+      "projectPath": "C:\\Users\\baran\\Software\\Self\\ProductApp.WebAPI\\src\\Infrastructure\\ProductApp.Persistence\\ProductApp.Persistence.csproj",
       "packagesPath": "C:\\Users\\baran\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\baran\\Software\\Self\\ProductApp\\src\\Infrastructure\\ProductApp.Persistence\\obj\\",
+      "outputPath": "C:\\Users\\baran\\Software\\Self\\ProductApp.WebAPI\\src\\Infrastructure\\ProductApp.Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\baran\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -900,11 +900,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\baran\\Software\\Self\\ProductApp\\src\\Core\\ProductApp.Application\\ProductApp.Application.csproj": {
-              "projectPath": "C:\\Users\\baran\\Software\\Self\\ProductApp\\src\\Core\\ProductApp.Application\\ProductApp.Application.csproj"
+            "C:\\Users\\baran\\Software\\Self\\ProductApp.WebAPI\\src\\Core\\ProductApp.Application\\ProductApp.Application.csproj": {
+              "projectPath": "C:\\Users\\baran\\Software\\Self\\ProductApp.WebAPI\\src\\Core\\ProductApp.Application\\ProductApp.Application.csproj"
             },
-            "C:\\Users\\baran\\Software\\Self\\ProductApp\\src\\Core\\ProductApp.Domain\\ProductApp.Domain.csproj": {
-              "projectPath": "C:\\Users\\baran\\Software\\Self\\ProductApp\\src\\Core\\ProductApp.Domain\\ProductApp.Domain.csproj"
+            "C:\\Users\\baran\\Software\\Self\\ProductApp.WebAPI\\src\\Core\\ProductApp.Domain\\ProductApp.Domain.csproj": {
+              "projectPath": "C:\\Users\\baran\\Software\\Self\\ProductApp.WebAPI\\src\\Core\\ProductApp.Domain\\ProductApp.Domain.csproj"
             }
           }
         }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\baran\\Software\\Self\\ProductApp\\src\\WebAPI\\ProductApp.WebAPI\\ProductApp.WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\baran\\Software\\Self\\ProductApp.WebAPI\\src\\WebAPI\\ProductApp.WebAPI\\ProductApp.WebAPI.csproj",
       "projectName": "ProductApp.WebAPI",
-      "projectPath": "C:\\Users\\baran\\Software\\Self\\ProductApp\\src\\WebAPI\\ProductApp.WebAPI\\ProductApp.WebAPI.csproj",
+      "projectPath": "C:\\Users\\baran\\Software\\Self\\ProductApp.WebAPI\\src\\WebAPI\\ProductApp.WebAPI\\ProductApp.WebAPI.csproj",
       "packagesPath": "C:\\Users\\baran\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\baran\\Software\\Self\\ProductApp\\src\\WebAPI\\ProductApp.WebAPI\\obj\\",
+      "outputPath": "C:\\Users\\baran\\Software\\Self\\ProductApp.WebAPI\\src\\WebAPI\\ProductApp.WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\baran\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -8,3 +8,13 @@ C:\Users\baran\Software\Self\ProductApp\src\Core\ProductApp.Domain\obj\Debug\net
 C:\Users\baran\Software\Self\ProductApp\src\Core\ProductApp.Domain\obj\Debug\netcoreapp3.1\ProductApp.Domain.csproj.CoreCompileInputs.cache
 C:\Users\baran\Software\Self\ProductApp\src\Core\ProductApp.Domain\obj\Debug\netcoreapp3.1\ProductApp.Domain.dll
 C:\Users\baran\Software\Self\ProductApp\src\Core\ProductApp.Domain\obj\Debug\netcoreapp3.1\ProductApp.Domain.pdb
+C:\Users\baran\Software\Self\ProductApp.WebAPI\src\Core\ProductApp.Domain\bin\Debug\netcoreapp3.1\ProductApp.Domain.deps.json
+C:\Users\baran\Software\Self\ProductApp.WebAPI\src\Core\ProductApp.Domain\bin\Debug\netcoreapp3.1\ProductApp.Domain.dll
+C:\Users\baran\Software\Self\ProductApp.WebAPI\src\Core\ProductApp.Domain\bin\Debug\netcoreapp3.1\ProductApp.Domain.pdb
+C:\Users\baran\Software\Self\ProductApp.WebAPI\src\Core\ProductApp.Domain\obj\Debug\netcoreapp3.1\ProductApp.Domain.csproj.AssemblyReference.cache
+C:\Users\baran\Software\Self\ProductApp.WebAPI\src\Core\ProductApp.Domain\obj\Debug\netcoreapp3.1\ProductApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baran\Software\Self\ProductApp.WebAPI\src\Core\ProductApp.Domain\obj\Debug\netcoreapp3.1\ProductApp.Domain.AssemblyInfoInputs.cache
+C:\Users\baran\Software\Self\ProductApp.WebAPI\src\Core\ProductApp.Domain\obj\Debug\netcoreapp3.1\ProductApp.Domain.AssemblyInfo.cs
+C:\Users\baran\Software\Self\ProductApp.WebAPI\src\Core\ProductApp.Domain\obj\Debug\netcoreapp3.1\ProductApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\baran\Software\Self\ProductApp.WebAPI\src\Core\ProductApp.Domain\obj\Debug\netcoreapp3.1\ProductApp.Domain.dll
+C:\Users\baran\Software\Self\ProductApp.WebAPI\src\Core\ProductApp.Domain\obj\Debug\netcoreapp3.1\ProductApp.Domain.pdb

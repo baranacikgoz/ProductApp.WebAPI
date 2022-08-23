@@ -8,12 +8,10 @@ using System.Threading.Tasks;
 
 namespace ProductApp.Persistence.RepositoryImpl
 {
-    public class ProductRepositoryAsync : GenericRepositoryAsync<Product>
+    public class ProductRepositoryAsync : GenericRepositoryAsync<Product>, IProductRepositoryAsync
     {
-        private readonly ApplicationDbContext _dbContext;
         public ProductRepositoryAsync(ApplicationDbContext dbContext) : base(dbContext)
         {
-            _dbContext = dbContext;
         }
     }
 }
