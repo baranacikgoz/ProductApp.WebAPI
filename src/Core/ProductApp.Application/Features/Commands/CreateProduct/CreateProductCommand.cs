@@ -33,7 +33,7 @@ namespace ProductApp.Application.Features.Commands.CreateProduct
                 var product = _mapper.Map<Domain.Entities.Product>(request);
                 await _productRepository.AddAsync(product);
 
-                return new ServiceResponse<Guid>(product.Id);
+                return new ServiceResponse<Guid>(product.Id) { IsSuccess = true };
             }
         }
     }
