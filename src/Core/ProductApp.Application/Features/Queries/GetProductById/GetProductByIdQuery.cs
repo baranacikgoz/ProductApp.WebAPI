@@ -1,6 +1,5 @@
 ﻿using AutoMapper;
 using MediatR;
-using ProductApp.Application.Dto;
 using ProductApp.Application.Interfaces.Repositories;
 using ProductApp.Application.Wrappers;
 using System;

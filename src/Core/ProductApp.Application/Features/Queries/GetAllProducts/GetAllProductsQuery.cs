@@ -1,6 +1,5 @@
 ﻿using AutoMapper;
 using MediatR;
-using ProductApp.Application.Dto;
 using ProductApp.Application.Interfaces.Repositories;
 using ProductApp.Application.Wrappers;
 using System;
@@ -12,9 +11,9 @@ using System.Threading.Tasks;
 
 namespace ProductApp.Application.Features.Queries.GetAllProducts
 {
-    public class GetAllProductsQuery : IRequest<ServiceResponse<List<ProductViewDto>>>
+    public class GetAllProductsQuery : IRequest<ServiceResponse<List<GetAllProductsViewModel>>>
     {
-        public class GetAllProductsQueryHandler : IRequestHandler<GetAllProductsQuery, ServiceResponse<List<ProductViewDto>>>
+        public class GetAllProductsQueryHandler : IRequestHandler<GetAllProductsQuery, ServiceResponse<List<GetAllProductsViewModel>>>
         {
             private readonly IProductRepositoryAsync _productRepository;
             private readonly IMapper _mapper;
@@ -25,11 +24,11 @@ namespace ProductApp.Application.Features.Queries.GetAllProducts
                 _mapper = mapper;
             }
 
-            public async Task<ServiceResponse<List<ProductViewDto>>> Handle(GetAllProductsQuery request, CancellationToken cancellationToken)
+            public async Task<ServiceResponse<List<GetAllProductsViewModel>>> Handle(GetAllProductsQuery request, CancellationToken cancellationToken)
             {
                 var products = await _productRepository.GetAllAsync();
 
-                var viewModel = _mapper.Map<List<ProductViewDto>>(products);
+                var viewModel = _mapper.Map<List<GetAllProductsViewModel>>(products);
 
                 //var viewModel = products.Select(i => new ProductViewDto()
                 //{
@@ -37,7 +36,7 @@ namespace ProductApp.Application.Features.Queries.GetAllProducts
                 //    Name = i.Name,
                 //}).ToList();
 
-                return new ServiceResponse<List<ProductViewDto>>(viewModel);
+                return new ServiceResponse<List<GetAllProductsViewModel>>(viewModel);
             }
         }
     }
