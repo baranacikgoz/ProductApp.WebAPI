@@ -1,6 +1,9 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using MediatR;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using ProductApp.Application.Dto;
+using ProductApp.Application.Features.Commands.CreateProduct;
+using ProductApp.Application.Features.Queries.GetAllProducts;
 using ProductApp.Application.Interfaces.Repositories;
 using System;
 using System.Collections.Generic;
@@ -13,24 +16,24 @@ namespace ProductApp.WebAPI.Controllers
     [Route("api/[controller]")]
     public class ProductController : ControllerBase
     {
-        private readonly IProductRepositoryAsync _productRepository;
-
-        public ProductController(IProductRepositoryAsync productRepository)
+        private readonly IMediator _mediator;
+        public ProductController(IMediator mediator)
         {
-            _productRepository = productRepository;
+            _mediator = mediator;
         }
 
         [HttpGet]
         public async Task<IActionResult> GetAll()
         {
-            var allList = await _productRepository.GetAllAsync();
-            var result = allList.Select(i => new ProductViewDto()
-            {
-                Id = i.Id,
-                Name = i.Name,
-            });
+            var query = new GetAllProductsQuery();
 
-            return Ok(result);
+            return Ok(await _mediator.Send(query));       
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Post(CreateProductCommand command)
+        {
+            return Ok(await _mediator.Send(command));
         }
     }
 }

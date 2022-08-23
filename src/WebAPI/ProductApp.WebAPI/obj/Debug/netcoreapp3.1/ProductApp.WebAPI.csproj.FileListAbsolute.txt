@@ -44,3 +44,7 @@ C:\Users\baran\Software\Self\ProductApp.WebAPI\src\WebAPI\ProductApp.WebAPI\obj\
 C:\Users\baran\Software\Self\ProductApp.WebAPI\src\WebAPI\ProductApp.WebAPI\obj\Debug\netcoreapp3.1\ProductApp.WebAPI.genruntimeconfig.cache
 C:\Users\baran\Software\Self\ProductApp.WebAPI\src\WebAPI\ProductApp.WebAPI\bin\Debug\netcoreapp3.1\MediatR.dll
 C:\Users\baran\Software\Self\ProductApp.WebAPI\src\WebAPI\ProductApp.WebAPI\bin\Debug\netcoreapp3.1\MediatR.Contracts.dll
+C:\Users\baran\Software\Self\ProductApp.WebAPI\src\WebAPI\ProductApp.WebAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\baran\Software\Self\ProductApp.WebAPI\src\WebAPI\ProductApp.WebAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\baran\Software\Self\ProductApp.WebAPI\src\WebAPI\ProductApp.WebAPI\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\baran\Software\Self\ProductApp.WebAPI\src\WebAPI\ProductApp.WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
