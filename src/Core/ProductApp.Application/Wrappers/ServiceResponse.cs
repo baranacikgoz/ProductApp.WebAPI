@@ -11,6 +11,7 @@ namespace ProductApp.Application.Wrappers
         public ServiceResponse(T value)
         {
             this.Value = value;
+            IsSuccess = true;
         }
 
         public ServiceResponse()

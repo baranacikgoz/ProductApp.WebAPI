@@ -37,7 +37,7 @@ namespace ProductApp.Application.Features.Queries.GetAllProducts
                 //    Name = i.Name,
                 //}).ToList();
 
-                return new ServiceResponse<List<ProductViewDto>>(viewModel) { IsSuccess = true };
+                return new ServiceResponse<List<ProductViewDto>>(viewModel);
             }
         }
     }
