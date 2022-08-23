@@ -1,11 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "Sq3tOTw3CURb+0ryu2VZJcbrYUfHUzPOdLU8QO9MOdRROu3+hZX7l4x1gYOqjKN2cXv27aY8KeypSCui0p8LWg==",
+  "dgSpecHash": "XAAyhzobdmReIS6aklym3pgK6Sdqwcpt++y9lk6iAlKswLNqwUODHoXVRp2+IbtKO3H3IJjzAbSIUTgoe5sBAg==",
   "success": true,
   "projectFilePath": "C:\\Users\\baran\\Software\\Self\\ProductApp.WebAPI\\src\\WebAPI\\ProductApp.WebAPI\\ProductApp.WebAPI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\baran\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\baran\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\baran\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\baran\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\baran\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\10.0.1\\mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
     "C:\\Users\\baran\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\baran\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
+    "C:\\Users\\baran\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\baran\\.nuget\\packages\\microsoft.entityframeworkcore\\3.1.28\\microsoft.entityframeworkcore.3.1.28.nupkg.sha512",
     "C:\\Users\\baran\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\3.1.28\\microsoft.entityframeworkcore.abstractions.3.1.28.nupkg.sha512",
     "C:\\Users\\baran\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\3.1.28\\microsoft.entityframeworkcore.analyzers.3.1.28.nupkg.sha512",
@@ -16,14 +22,15 @@
     "C:\\Users\\baran\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.28\\microsoft.extensions.configuration.abstractions.3.1.28.nupkg.sha512",
     "C:\\Users\\baran\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.28\\microsoft.extensions.configuration.binder.3.1.28.nupkg.sha512",
     "C:\\Users\\baran\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.28\\microsoft.extensions.dependencyinjection.3.1.28.nupkg.sha512",
-    "C:\\Users\\baran\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.28\\microsoft.extensions.dependencyinjection.abstractions.3.1.28.nupkg.sha512",
+    "C:\\Users\\baran\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\baran\\.nuget\\packages\\microsoft.extensions.logging\\3.1.28\\microsoft.extensions.logging.3.1.28.nupkg.sha512",
     "C:\\Users\\baran\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.28\\microsoft.extensions.logging.abstractions.3.1.28.nupkg.sha512",
-    "C:\\Users\\baran\\.nuget\\packages\\microsoft.extensions.options\\3.1.28\\microsoft.extensions.options.3.1.28.nupkg.sha512",
-    "C:\\Users\\baran\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.28\\microsoft.extensions.primitives.3.1.28.nupkg.sha512",
+    "C:\\Users\\baran\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\baran\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "C:\\Users\\baran\\.nuget\\packages\\system.collections.immutable\\1.7.1\\system.collections.immutable.1.7.1.nupkg.sha512",
     "C:\\Users\\baran\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
-    "C:\\Users\\baran\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+    "C:\\Users\\baran\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "C:\\Users\\baran\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }
